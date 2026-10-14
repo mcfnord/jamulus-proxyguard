@@ -85,3 +85,7 @@ only. Not yet tested: the installer on Oracle Linux and Debian, a live firewalld
 - ip-api allows 15 lookups a minute (100 addresses each). Past that, new addresses wait unjudged, which means
   allowed.
 - Needs Linux with nftables (any distribution from about 2020 on), Python 3.6+, systemd and root.
+
+## License
+
+MIT. See `LICENSE`.
