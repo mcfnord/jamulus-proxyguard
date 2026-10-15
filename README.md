@@ -7,7 +7,7 @@ Jamulus itself is untouched.
 ## Why
 
 Public Jamulus rooms are being chat-spammed by someone who rotates names and hides behind commercial VPN exits.
-A new name costs nothing; a new network costs something. Real musicians almost never play through a VPN, because
+Real musicians almost never play through a VPN, because
 it adds latency to a latency-critical app, so refusing VPN exits takes the harasser's tool away and costs your
 players almost nothing. A player who does need a VPN goes in `allow.txt`.
 
